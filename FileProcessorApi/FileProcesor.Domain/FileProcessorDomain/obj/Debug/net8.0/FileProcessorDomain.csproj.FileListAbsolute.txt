@@ -1,0 +1,12 @@
+C:\FileProcessor\FileProcessorApi\FileProcesor.Domain\FileProcessorDomain\bin\Debug\net8.0\FileProcessorDomain.deps.json
+C:\FileProcessor\FileProcessorApi\FileProcesor.Domain\FileProcessorDomain\bin\Debug\net8.0\FileProcessorDomain.dll
+C:\FileProcessor\FileProcessorApi\FileProcesor.Domain\FileProcessorDomain\bin\Debug\net8.0\FileProcessorDomain.pdb
+C:\FileProcessor\FileProcessorApi\FileProcesor.Domain\FileProcessorDomain\obj\Debug\net8.0\FileProcessorDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\FileProcessor\FileProcessorApi\FileProcesor.Domain\FileProcessorDomain\obj\Debug\net8.0\FileProcessorDomain.AssemblyInfoInputs.cache
+C:\FileProcessor\FileProcessorApi\FileProcesor.Domain\FileProcessorDomain\obj\Debug\net8.0\FileProcessorDomain.AssemblyInfo.cs
+C:\FileProcessor\FileProcessorApi\FileProcesor.Domain\FileProcessorDomain\obj\Debug\net8.0\FileProcessorDomain.csproj.CoreCompileInputs.cache
+C:\FileProcessor\FileProcessorApi\FileProcesor.Domain\FileProcessorDomain\obj\Debug\net8.0\FileProcessorDomain.sourcelink.json
+C:\FileProcessor\FileProcessorApi\FileProcesor.Domain\FileProcessorDomain\obj\Debug\net8.0\FileProcessorDomain.dll
+C:\FileProcessor\FileProcessorApi\FileProcesor.Domain\FileProcessorDomain\obj\Debug\net8.0\refint\FileProcessorDomain.dll
+C:\FileProcessor\FileProcessorApi\FileProcesor.Domain\FileProcessorDomain\obj\Debug\net8.0\FileProcessorDomain.pdb
+C:\FileProcessor\FileProcessorApi\FileProcesor.Domain\FileProcessorDomain\obj\Debug\net8.0\ref\FileProcessorDomain.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FileProcessorApplication/1.0.0": {
+        "dependencies": {
+          "FileProcessorDomain": "1.0.0"
+        },
+        "runtime": {
+          "FileProcessorApplication.dll": {}
+        }
+      },
+      "FileProcessorDomain/1.0.0": {
+        "runtime": {
+          "FileProcessorDomain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileProcessorApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FileProcessorDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
