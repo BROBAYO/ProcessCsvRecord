@@ -1,0 +1,6 @@
+CREATE TABLE CsvRecords (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Name NVARCHAR(255),
+    LastName NVARCHAR(255),
+    Phone NVARCHAR(255)
+);

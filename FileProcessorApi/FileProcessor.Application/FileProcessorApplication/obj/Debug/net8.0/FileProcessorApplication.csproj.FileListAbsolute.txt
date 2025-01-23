@@ -1,0 +1,16 @@
+C:\FileProcessor\FileProcessorApi\FileProcessor.Application\FileProcessorApplication\bin\Debug\net8.0\FileProcessorApplication.deps.json
+C:\FileProcessor\FileProcessorApi\FileProcessor.Application\FileProcessorApplication\bin\Debug\net8.0\FileProcessorApplication.dll
+C:\FileProcessor\FileProcessorApi\FileProcessor.Application\FileProcessorApplication\bin\Debug\net8.0\FileProcessorApplication.pdb
+C:\FileProcessor\FileProcessorApi\FileProcessor.Application\FileProcessorApplication\bin\Debug\net8.0\FileProcessorDomain.dll
+C:\FileProcessor\FileProcessorApi\FileProcessor.Application\FileProcessorApplication\bin\Debug\net8.0\FileProcessorDomain.pdb
+C:\FileProcessor\FileProcessorApi\FileProcessor.Application\FileProcessorApplication\obj\Debug\net8.0\FileProcessorApplication.csproj.AssemblyReference.cache
+C:\FileProcessor\FileProcessorApi\FileProcessor.Application\FileProcessorApplication\obj\Debug\net8.0\FileProcessorApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\FileProcessor\FileProcessorApi\FileProcessor.Application\FileProcessorApplication\obj\Debug\net8.0\FileProcessorApplication.AssemblyInfoInputs.cache
+C:\FileProcessor\FileProcessorApi\FileProcessor.Application\FileProcessorApplication\obj\Debug\net8.0\FileProcessorApplication.AssemblyInfo.cs
+C:\FileProcessor\FileProcessorApi\FileProcessor.Application\FileProcessorApplication\obj\Debug\net8.0\FileProcessorApplication.csproj.CoreCompileInputs.cache
+C:\FileProcessor\FileProcessorApi\FileProcessor.Application\FileProcessorApplication\obj\Debug\net8.0\FileProcessorApplication.sourcelink.json
+C:\FileProcessor\FileProcessorApi\FileProcessor.Application\FileProcessorApplication\obj\Debug\net8.0\FileProc.376B03B5.Up2Date
+C:\FileProcessor\FileProcessorApi\FileProcessor.Application\FileProcessorApplication\obj\Debug\net8.0\FileProcessorApplication.dll
+C:\FileProcessor\FileProcessorApi\FileProcessor.Application\FileProcessorApplication\obj\Debug\net8.0\refint\FileProcessorApplication.dll
+C:\FileProcessor\FileProcessorApi\FileProcessor.Application\FileProcessorApplication\obj\Debug\net8.0\FileProcessorApplication.pdb
+C:\FileProcessor\FileProcessorApi\FileProcessor.Application\FileProcessorApplication\obj\Debug\net8.0\ref\FileProcessorApplication.dll

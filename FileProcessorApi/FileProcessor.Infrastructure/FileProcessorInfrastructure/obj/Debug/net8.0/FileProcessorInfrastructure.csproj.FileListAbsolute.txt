@@ -1,0 +1,16 @@
+C:\FileProcessor\FileProcessorApi\FileProcessor.Infrastructure\FileProcessorInfrastructure\bin\Debug\net8.0\FileProcessorInfrastructure.deps.json
+C:\FileProcessor\FileProcessorApi\FileProcessor.Infrastructure\FileProcessorInfrastructure\bin\Debug\net8.0\FileProcessorInfrastructure.dll
+C:\FileProcessor\FileProcessorApi\FileProcessor.Infrastructure\FileProcessorInfrastructure\bin\Debug\net8.0\FileProcessorInfrastructure.pdb
+C:\FileProcessor\FileProcessorApi\FileProcessor.Infrastructure\FileProcessorInfrastructure\bin\Debug\net8.0\FileProcessorDomain.dll
+C:\FileProcessor\FileProcessorApi\FileProcessor.Infrastructure\FileProcessorInfrastructure\bin\Debug\net8.0\FileProcessorDomain.pdb
+C:\FileProcessor\FileProcessorApi\FileProcessor.Infrastructure\FileProcessorInfrastructure\obj\Debug\net8.0\FileProcessorInfrastructure.csproj.AssemblyReference.cache
+C:\FileProcessor\FileProcessorApi\FileProcessor.Infrastructure\FileProcessorInfrastructure\obj\Debug\net8.0\FileProcessorInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\FileProcessor\FileProcessorApi\FileProcessor.Infrastructure\FileProcessorInfrastructure\obj\Debug\net8.0\FileProcessorInfrastructure.AssemblyInfoInputs.cache
+C:\FileProcessor\FileProcessorApi\FileProcessor.Infrastructure\FileProcessorInfrastructure\obj\Debug\net8.0\FileProcessorInfrastructure.AssemblyInfo.cs
+C:\FileProcessor\FileProcessorApi\FileProcessor.Infrastructure\FileProcessorInfrastructure\obj\Debug\net8.0\FileProcessorInfrastructure.csproj.CoreCompileInputs.cache
+C:\FileProcessor\FileProcessorApi\FileProcessor.Infrastructure\FileProcessorInfrastructure\obj\Debug\net8.0\FileProcessorInfrastructure.sourcelink.json
+C:\FileProcessor\FileProcessorApi\FileProcessor.Infrastructure\FileProcessorInfrastructure\obj\Debug\net8.0\FileProc.AF7FE4C2.Up2Date
+C:\FileProcessor\FileProcessorApi\FileProcessor.Infrastructure\FileProcessorInfrastructure\obj\Debug\net8.0\FileProcessorInfrastructure.dll
+C:\FileProcessor\FileProcessorApi\FileProcessor.Infrastructure\FileProcessorInfrastructure\obj\Debug\net8.0\refint\FileProcessorInfrastructure.dll
+C:\FileProcessor\FileProcessorApi\FileProcessor.Infrastructure\FileProcessorInfrastructure\obj\Debug\net8.0\FileProcessorInfrastructure.pdb
+C:\FileProcessor\FileProcessorApi\FileProcessor.Infrastructure\FileProcessorInfrastructure\obj\Debug\net8.0\ref\FileProcessorInfrastructure.dll
