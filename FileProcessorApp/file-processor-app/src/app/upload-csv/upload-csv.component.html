@@ -1,0 +1,27 @@
+<div class="container">
+    <h2>Cargar archivo CSV</h2>
+    <input type="file" (change)="onFileSelected($event)" />
+    <button (click)="onUpload()">Subir archivo</button>
+  
+    <div *ngIf="message" class="alert" [ngClass]="{ 'alert-success': message.indexOf('exitoso') >= 0, 'alert-danger': message.indexOf('error') >= 0 }">
+      {{ message }}
+    </div>
+  
+    <h3>Registros cargados</h3>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Nombre</th>
+          <th>Apellido</th>
+          <th>Teléfono</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let record of records">
+          <td>{{ record.name }}</td>
+          <td>{{ record.lastName }}</td>
+          <td>{{ record.phone }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
